@@ -2,9 +2,9 @@
   "expoServerPort": 19000,
   "devToolsPort": 19002,
   "packagerPort": 19001,
-  "packagerPid": 19688,
+  "packagerPid": 22232,
   "expoServerNgrokUrl": "https://vb-qev.hendrik17.kawan3.exp.direct",
   "packagerNgrokUrl": "https://packager.vb-qev.hendrik17.kawan3.exp.direct",
-  "ngrokPid": 12400,
+  "ngrokPid": 10080,
   "webpackServerPort": null
 }

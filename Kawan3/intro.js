@@ -1,5 +1,9 @@
 import React from  'react';
 import { StyleSheet, Text, View, Image, requireNativeComponent } from 'react-native';
+import {
+    heightPercentageToDP as hp,
+    widthPercentageToDP as wp,
+} from 'react-native-responsive-screen'
 
 export default class intro extends React.Component {
 
@@ -26,7 +30,7 @@ const styles = StyleSheet.create({
         alignItems: "center",
     },
     img1: {
-
+        width: wp('100%')
     },
     judul: {
         fontFamily: "roboto",
